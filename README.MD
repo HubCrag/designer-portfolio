@@ -1,6 +1,6 @@
 ## Hubcrag Designer Personal Portfolio
 
-### [Watch it on youtube]( # )
+### [Watch it on youtube](https://youtu.be/7U8Lhp6AdbY)
 
 ### Setup demo project
 
